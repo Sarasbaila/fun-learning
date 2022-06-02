@@ -4,12 +4,12 @@ const Footer = () => {
       <div className="py-6 px-4 bg-gray-800 text-center">
         <span className="text-sm text-gray-300 text-center">
           © {new Date().getFullYear()}{" "}
-          <a href="#">FunLearning™</a>. All Rights
+          <a href="https://github.com/">FunLearning™</a>. All Rights
           Reserved.
         </span>
         <div className="flex mt-4 space-x-6 justify-center items-center md:mt-0">
           <a
-            href="#"
+            href="https://github.com/"
             target="_blank"
             rel="noreferrer"
             className="text-orange-300 hover:text-orange-600"
@@ -28,7 +28,7 @@ const Footer = () => {
             </svg>
           </a>
           <a
-            href="#"
+            href="https://github.com/"
             target="_blank"
             rel="noreferrer"
             className="text-orange-300 hover:text-orange-600"
@@ -43,7 +43,7 @@ const Footer = () => {
             </svg>
           </a>
           <a
-            href="#"
+            href="https://github.com/"
             target="_blank"
             rel="noreferrer"
             className="text-orange-300 hover:text-orange-600"
